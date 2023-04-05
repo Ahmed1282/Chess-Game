@@ -1,5 +1,5 @@
 # Chess-Game
-Made a chess game using chess library in Python.
+Build a chess game using minimax algorithm in Python.
 
 Introduction: This report aims to explain a Python code that implements a chess AI using the Minimax algorithm and the Python-Chess library. The program allows a user to play against the AI, which computes its moves based on the evaluation of the chessboard's material balance.
 1. Importing the required library: The Python-Chess library is imported to work with chess data structures and to perform chess-related operations.
