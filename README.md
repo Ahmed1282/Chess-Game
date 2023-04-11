@@ -1,5 +1,5 @@
 # Chess-Game
-Build a chess game using minimax algorithm in Python.
+Build a chess game using MINIMAX algorithm in Python.
 
 1. Importing the required library: The Python-Chess library is imported to work with chess data structures and to perform chess-related operations.
 2. Display function: The Display(b) function takes a single parameter, b, which represents the chessboard. The function prints the board's current state using the Python-Chess library's built-in string representation.
