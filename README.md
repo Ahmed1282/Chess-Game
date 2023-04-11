@@ -1,7 +1,6 @@
 # Chess-Game
 Build a chess game using minimax algorithm in Python.
 
-Introduction: This report aims to explain a Python code that implements a chess AI using the Minimax algorithm and the Python-Chess library. The program allows a user to play against the AI, which computes its moves based on the evaluation of the chessboard's material balance.
 1. Importing the required library: The Python-Chess library is imported to work with chess data structures and to perform chess-related operations.
 2. Display function: The Display(b) function takes a single parameter, b, which represents the chessboard. The function prints the board's current state using the Python-Chess library's built-in string representation.
 3. Evaluate function: The Evaluate(b) function takes the chessboard, b, as its input and calculates the material balance by summing the piece types for both white and black pieces. It returns the difference between the white and black material, representing the current material advantage for white.
